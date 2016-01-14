@@ -40,6 +40,10 @@ a {
 .site-header {
   &__title {
     font-size: $base-font-size * 2;
+  }
+
+  &__title,
+  &__desc {
     text-transform: uppercase;
   }
 }
