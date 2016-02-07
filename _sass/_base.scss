@@ -45,6 +45,9 @@ a {
   &__title,
   &__desc {
     text-transform: uppercase;
+    em {
+    font-style: italic;
+}
   }
 }
 
