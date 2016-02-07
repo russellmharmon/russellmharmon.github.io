@@ -40,12 +40,12 @@ a {
 .site-header {
   &__title {
     font-size: $base-font-size * 2;
-    font-style: italic;
   }
 
   &__title,
   &__desc {
     text-transform: uppercase;
+    font-style: italic;
   }
 }
 
