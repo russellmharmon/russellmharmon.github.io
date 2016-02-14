@@ -42,7 +42,7 @@ a {
   }
 
   &__contact {
-    padding: 16px 0;
+    padding: 14px 0;
     font-family: "Times New Roman", Georgia, serif;
     font-style: italic;
 
@@ -59,7 +59,7 @@ a {
     font-weight: 700;
 
     a {
-      border-bottom: 1px solid $text-color;
+      border-bottom: 0px solid $text-color;
 
       &:hover,
       &:active,
