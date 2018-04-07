@@ -1,10 +1,9 @@
-title: Russell.M.Harmon
+title: Russell Harmon
 email: russellmharmon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Game Audio Designer
+  Sound Designer
 baseurl: ""
 url: "http://russellmharmon.com"
-twitter_username: russellmharmon
 github_username:  russellmharmon
 
 markdown: kramdown
